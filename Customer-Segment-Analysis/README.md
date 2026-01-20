@@ -16,6 +16,10 @@ This Excel project focuses on analyzing customer segments to understand revenue 
 - Revenue Distribution by Customer ID
 - Interactive slicers for customer segments
 
+- ## 📷 Dashboard Preview
+![Dashboard](customer-segment-dashboard.png)
+
+
 ## 🛠 Tools Used
 - Microsoft Excel
 - Pivot Tables
